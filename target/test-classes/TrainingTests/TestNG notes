@@ -1,0 +1,29 @@
+TestNG --- unit test Framework
+TDD--Test Driven Development
+
+purpose--design test cases in a systematic way
+--html reports
+--diff annotations
+--priorities/sequences
+--dependency feature
+--grouping
+--data provider(amazing feature)
+
+
+
+TestNG -- open source, Free
+Adding TestNG jar files
+--right click on properties--javabuildpath--add library--TestNG--next--finish--open Testng--apply--ok
+
+--Java uint testing framework
+
+install testNG in Eclipse
+http://beust.com/eclipse--go to help and paste this URL and search(contact all updates)finish--restart Eclipse
+
+We don't need any main method to execute our class..it will execute all the test cases directly
+
+
+Annotations:
+--@Test--u can right 'n' number of test cases
+--With each and every annotation , it should be associated with a method
+--3 sections in TestNG are: 1.Pre conditions 2.@Test 3.Post conditions

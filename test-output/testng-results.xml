@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-04T17:08:17 EDT" name="Default suite" finished-at="2021-04-04T17:08:17 EDT" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2021-04-04T17:08:17 EDT" name="Default test" finished-at="2021-04-04T17:08:17 EDT" duration-ms="78">
+      <class name="TrainingTests.TestNGDemo1">
+        <test-method is-config="true" signature="beforeClassSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="beforeClassSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassSetup -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="zoo()[pri:-1, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="zoo" finished-at="2021-04-04T17:08:17 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zoo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="testMethod2()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testMethod2" finished-at="2021-04-04T17:08:17 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testMethod3()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testMethod3" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="testMethod4()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testMethod4" finished-at="2021-04-04T17:08:17 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test1()[pri:1, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="test1" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="testSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="test2()[pri:2, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="test2" finished-at="2021-04-04T17:08:17 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="tearDown" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterClassSetup()[pri:0, instance:TrainingTests.TestNGDemo1@be35cd9]" started-at="2021-04-04T17:08:17 EDT" name="afterClassSetup" finished-at="2021-04-04T17:08:17 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassSetup -->
+      </class> <!-- TrainingTests.TestNGDemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
